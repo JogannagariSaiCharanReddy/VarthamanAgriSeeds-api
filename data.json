@@ -1,0 +1,979 @@
+{
+  "company_profile": {
+    "about_us": "Varthaman Agri Seeds has a vision for creating better livelihoods for Indian farmers and all-round success of the farming community delivering high quality and high yielding vegetable and field crop hybrids / improved varieties possessing high levels of abiotic and biotic resistance. Our Organization has it's core strength in vegetable hybrid seeds breeding, production and marketing, supported by professionally qualified and experienced professionals. Varthaman Agri Seeds has accomplishing success in breeding hybrids for different markets and released compatible hybrids suitable for various agro-climatic zones of Indian states. We have developed chilli hybrids in red-dry and fresh green chilli segments with adaptability towards various stress environment which are very popular in the market. Tomato and Okra hybrids have created niche in the market. Gourd's, Melon's, Carrot, Beetroot, Cabbage, Cauliflower, Coriander and hybrid marigold have achieved market popularity in a short span of time due to our dedicated team with more than two decades of experience. With the tremendous support and acceptance of our hybrids by valued farmers, distributors, dealers and all our well wishers Varthaman Agri Seeds has achieved wonderful and trusted growth in a short span of time.",
+    "contact_info": {
+      "company_name": "Varthaman Agri Seeds",
+      "address": "F.No.403, ELA Enclave, Devendar nagar, Kompally, Hyderabad - 500 100.",
+      "email": "varthamanagriseeds@gmail.com",
+      "customer_care_cell": "+91 94914 75379"
+    }
+  },
+  "crop_data": {
+    "Maize": [
+      {
+        "id": 1,
+        "name": "Suvarna-2003",
+        "details": [
+          "Plant height is 170-185 cm.",
+          "Semi erect type plant.",
+          "Orange yellow colour grain.",
+          "Semi dent type grain.",
+          "Tolerant to turcicum leaf bright and downy mildew.",
+          "Crop duration is 110-115 days."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chandu Gold-033",
+        "details": [
+          "Plant height is 180-195 cm.",
+          "Erect type plant.",
+          "Orange yellow colour grain.",
+          "Semi dent type grain.",
+          "Tolerant to turcicum leaf bright and downy mildew.",
+          "Crop duration is 110-115 days."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "VS Leader-571",
+        "details": [
+          "Plant height is 195-210 cm.",
+          "Erect type plant.",
+          "Orange yellow colour grain.",
+          "Semi dent type grain with high shelling percent.",
+          "Tolerant to downy mildew.",
+          "Crop duration is 115-120 days."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bhoomi-2023",
+        "details": [
+          "Plant height is 200-215 cm.",
+          "Semi erect type plant.",
+          "Orange yellow colour grain.",
+          "Semi dent type grain with high shelling percent.",
+          "Tolerant to turcicum leaf bright and downy mildew.",
+          "Crop duration is 125-130 days."
+        ]
+      }
+    ],
+    "Research Paddy": [
+      {
+        "id": 5,
+        "name": "V.S Poha-555",
+        "details": [
+          "Plant height 85-90cm.",
+          "Duration 115-125 days.",
+          "Medium slender grains with straw color husk.",
+          "Tolerant to blast and BPH.",
+          "Non-lodging and produces 23-26 productive tillers with 22-25 cm long panicle.",
+          "High yielder and milling recovery."
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Alexa-2020",
+        "details": [
+          "It is semi-dwarf with plant height 108-110cm.",
+          "Duration 110-120 days.",
+          "Long slender grains with straw color husk.",
+          "Tolerant to BPH and resistant to blast."
+        ]
+      },
+      {
+        "id": 7,
+        "name": "V.S Jai Siyaram",
+        "details": [
+          "It is semi-dwarf with plant height 105-110cm.",
+          "Duration 140-145 days.",
+          "Short slender grains with straw color husk.",
+          "Tolerant to BPH and blast."
+        ]
+      },
+      {
+        "id": 8,
+        "name": "V.S Super-101 VAR",
+        "details": [
+          "Plant height 110-115cm.",
+          "Duration 135 days.",
+          "Medium slender grains with straw color husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 9,
+        "name": "V.S Early Fine-120",
+        "details": [
+          "Plant height 115-120cm.",
+          "Duration 130 days.",
+          "Short bold grains with straw color husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 10,
+        "name": "V.S Sindhu-2002",
+        "details": [
+          "Plant height 115-120cm.",
+          "Duration 110-120 days.",
+          "Short bold grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      }
+    ],
+    "F1 Hybrid Paddy": [
+      {
+        "id": 11,
+        "name": "Sarovar-90",
+        "details": [
+          "Plant height 115-125cm.",
+          "Duration 95-105 days.",
+          "Medium bold grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability."
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Sarovar-90 Bold",
+        "details": [
+          "Plant height 110-115cm.",
+          "Duration 90-100 days.",
+          "Medium slender grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability."
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Ashoka-115",
+        "details": [
+          "Plant height 110-115cm.",
+          "Duration 110-115 days.",
+          "Medium slender grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Bramharstra-1001",
+        "details": [
+          "It is semi-dwarf with plant height 108-110cm.",
+          "Duration 110-120 days.",
+          "Long slender grains with straw color husk.",
+          "Tolerant to BPH and resistant to blast."
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Nandini-333",
+        "details": [
+          "Plant height 110-115cm.",
+          "Duration 115-120 days.",
+          "Medium slender grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Amrutha-0044",
+        "details": [
+          "Plant height 115-120cm.",
+          "Duration 130-135 days.",
+          "Short bold grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Parvathi-17",
+        "details": [
+          "Plant height 115-120cm.",
+          "Duration 125-130 days.",
+          "Short bold grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability.",
+          "Highly branched spikelets with lengthy spike."
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Arjuna-0011",
+        "details": [
+          "Plant height 110-115cm.",
+          "Duration 90-100 days.",
+          "Medium slender grains with straw colour husk.",
+          "Tolerant to BPH and blast.",
+          "Wide adaptability."
+        ]
+      }
+    ],
+    "Hybrid Cotton": [
+      {
+        "id": 19,
+        "name": "VS-999",
+        "details": [
+          "Crop duration 150-155 days.",
+          "Big boll with boll size 5.5-5.8gm.",
+          "Round boll with prominent tip and excellent boll bursting with easy picking.",
+          "Highly tolerant to sucking pest.",
+          "Very high yielding Hybrid with superior lint quality."
+        ]
+      },
+      {
+        "id": 20,
+        "name": "VS-888",
+        "details": [
+          "Crop duration 140-150 days.",
+          "Big boll with boll size 5.5-6.0gm",
+          "Round boll with super boll bursting.",
+          "Highly tolerant to sucking pest.",
+          "High yielding Hybrid with Excellent fibre characters."
+        ]
+      }
+    ],
+    "SSG": [
+      {
+        "id": 21,
+        "name": "VS Nandini(Red_White)",
+        "details": [
+          "The plant stands 210-230cm tall",
+          "The stems are about 1/5 Inch in diameter with excellent re-generation.",
+          "Dark green and broad elongated leaves.",
+          "Produces 8-10 tillers.",
+          "120-125 days duration with 6-8 cuttings."
+        ]
+      }
+    ],
+    "Rajka Bajri": [
+      {
+        "id": 22,
+        "name": "VS Rajka Bajri",
+        "details": [
+          "Plant height is 10-11 feet.",
+          "Leaf width is 3-4 inch.",
+          "15 to 16 leaves.",
+          "Sweet taste, very good for animal.",
+          "Harvest 6 inch from land then you will be able to harvest many times."
+        ]
+      }
+    ],
+    "F1 Hybrid Chilli": [
+      {
+        "id": 23,
+        "name": "VS Bhagyashri",
+        "details": [
+          "Semi-erect plant.",
+          "60-65 days 1st picking.",
+          "Fruit length 12-13 cm.",
+          "Smooth surface fruit.",
+          "Light green fruit colour-unripe.",
+          "Dark red fruit colour-ripe.",
+          "Medium pungency.",
+          "High yielding, and suitable for fresh green with good keeping quality."
+        ]
+      },
+      {
+        "id": 24,
+        "name": "VS Riddhi",
+        "details": [
+          "Semi-erect plant.",
+          "70-75 days 1st picking.",
+          "7-8cm Fruit Length.",
+          "Smooth surface fruit.",
+          "Light Green fruit color-unripe.",
+          "Dark Red fruit Color-ripe.",
+          "High pungency.",
+          "High yielding, good color retention and suitable for export."
+        ]
+      },
+      {
+        "id": 25,
+        "name": "VS Siddhi",
+        "details": [
+          "Fruit Length 7-8cm",
+          "Plant height 90-100 cm, strong bushy type habit.",
+          "Fruit harvesting starts from 50-55 days after transplanting.",
+          "Unripe green chilli dark green, semi wrinkled fruit surface turns into dark red at maturity.",
+          "Fruit are pungent, Badgi type high yielding suitable."
+        ]
+      },
+      {
+        "id": 26,
+        "name": "VS Trisha-31",
+        "details": [
+          "A very highly pungent attractive dual purpose hybrid.",
+          "Strong erect plant with continuous heavy bearing habit.",
+          "Attractive, firm, shining dark green fruits with good weight.",
+          "High resistance to CVMV (chilli veinal mottle virus).",
+          "Length and width: 12-14 X 0.8-1.0 cm."
+        ]
+      },
+      {
+        "id": 27,
+        "name": "VS Janaki",
+        "details": [
+          "Strong and erect growing plant.",
+          "Traditional type lengthy fruits.",
+          "Fruit harvesting starts at 50-55days after transplanting.",
+          "Very good keeping and shipping quality.",
+          "Suitable for all Agro climatic zones of India and having high consumer market preference.",
+          "Fruits are medium pungent and slightly wrinkled fruit surface.",
+          "Length and width: 7-8cm x 1.0-1.4cm."
+        ]
+      },
+      {
+        "id": 28,
+        "name": "VS Vini",
+        "details": [
+          "Strong and erect growing.",
+          "Fruit Length 10-12cm.",
+          "Fruit harvesting starts at 55-60 days after transplanting.",
+          "Very good keeping and shipping quality.",
+          "Suitable for all Agro climatic zones of India. Have high consumer market preference.",
+          "Fruits are medium pungent and slightly wrinkled fruit surface.",
+          "Excellent for Red chilli purpose."
+        ]
+      },
+      {
+        "id": 29,
+        "name": "VS Ramya",
+        "details": [
+          "Plants are umbrella shape, straight and vigorous, 85-100 cm in height with strong lateral branches.",
+          "Fruit harvesting starts at 70-75 days after transplanting.",
+          "Fruit bearing is solitary, 10-11 cm long and 1.2-1.3cm in diameter.",
+          "Unripe fruits are dark green, smooth surface later turns into dark red at maturity."
+        ]
+      }
+    ],
+    "Capsicum": [
+      {
+        "id": 30,
+        "name": "VS Gayatri",
+        "details": [
+          "Deep green colour.",
+          "Blocky shape.",
+          "Size 8x9.5cm.",
+          "Weight 150-170 gm.",
+          "60 to 65 days maturity (after transplant).",
+          "Tolerant to Xanthomonas and TMV disease tolerance (Tobacco Mosaic Virus).",
+          "Strong holding capacity, and good production during hot and humid seasons."
+        ]
+      }
+    ],
+    "F1 Hybrid Tomato": [
+      {
+        "id": 31,
+        "name": "VS Akash-41",
+        "details": [
+          "Plant is large determinate, medium foliage cover with profuse branching.",
+          "Fruits are Firm and uniform in size with excellent shelf life, flat round medium to big size with 90-100g In weight.",
+          "Fruit harvesting starts from 60-62 days after transplanting.",
+          "Ripe fruit are red and glossy with very good sour taste.",
+          "Wide adaptability. Highly tolerant to heat and TLCV."
+        ]
+      },
+      {
+        "id": 32,
+        "name": "VS Bhanu-09",
+        "details": [
+          "Plant is determinate with very vigorous growth and heavy fruit bearing.",
+          "Fruit harvesting starts from 65-70 days after transplanting.",
+          "Fruits are flat round with very good firmness. 90-100g in weight.",
+          "Uniform size fruit with deep red colour at maturity.",
+          "High yield potential with high tolerance to heat, wilt and TLCV."
+        ]
+      },
+      {
+        "id": 33,
+        "name": "VS Divya-56",
+        "details": [
+          "Plant is large determinate, medium foliage cover with profuse branching.",
+          "Fruit harvesting starts from 60-62 days after transplanting.",
+          "Fruits are Firm and uniform in size with excellent shelf life, flat round medium to big size with 90-100g In weight.",
+          "Highly tolerant to heat and TLCV."
+        ]
+      },
+      {
+        "id": 34,
+        "name": "VS Naava-69",
+        "details": [
+          "Plant is determinate with very vigorous growth and heavy fruit bearing.",
+          "Fruit harvesting starts from 70-75 days after transplanting.",
+          "Fruits are flat round with very good firmness. 90-100g in weight.",
+          "Uniform size fruit with deep red colour at maturity.",
+          "High yield potential with high tolerance to heat, wilt and TLCV."
+        ]
+      }
+    ],
+    "F1 Hybrid Brinjal": [
+      {
+        "id": 35,
+        "name": "VS Jay",
+        "details": [
+          "Plant is bushy, semi dwarf, medium height with lateral branching.",
+          "Vigorous, green foliage without thorns.",
+          "Cluster bearing habit, oval and round shaped medium to small size fruits.",
+          "Fruit harvesting starts from 45-50 days after transplanting.",
+          "Average weight of fruit is 60-80 g."
+        ]
+      },
+      {
+        "id": 36,
+        "name": "VS Kushi",
+        "details": [
+          "Plant is bushy, semi dwarf, medium height with lateral branching.",
+          "Vigorous, green foliage without thorns.",
+          "Cluster bearing habit, oval and round shaped medium to small size fruits.",
+          "Fruit harvesting starts from 45-50 days after transplanting.",
+          "Average weight."
+        ]
+      },
+      {
+        "id": 37,
+        "name": "VS Nitya",
+        "details": [
+          "Strong, vigorous and erect growing plant habit.",
+          "Attractive, glossy, thick, pinkish purple oblong fruits.",
+          "Thornless, cluster bearing fruit habit.",
+          "Fruits are straight, 16-18cm long with average weight of 50-60g.",
+          "Intermediate resistant to bacterial wilt."
+        ]
+      },
+      {
+        "id": 38,
+        "name": "VS Krithika",
+        "details": [
+          "Strong, vigorous and erect growing plant habit.",
+          "Attractive, glossy, thick, Light green oblong fruits.",
+          "Thorn less, cluster bearing fruit habit.",
+          "Fruits are straight, 14-18cm long with average weight of 50-60g.",
+          "Intermediate."
+        ]
+      }
+    ],
+    "F1 Hybrid Okra": [
+      {
+        "id": 39,
+        "name": "VS Vidya",
+        "details": [
+          "Tall plant with very vigorous 2-3 branches with short internode.",
+          "10-12 cm long fruit with dark green colour with 5-6 ridges.",
+          "Days to first picking is 45-50 days.",
+          "110-120 days duration.",
+          "Highly tolerant to YVMV."
+        ]
+      },
+      {
+        "id": 40,
+        "name": "VS Brunda-5674",
+        "details": [
+          "Medium tall plant with very vigorous 3-4 branches with short internode.",
+          "12-15 cm long fruit with medium green colour with 5-6 ridges.",
+          "Days to first picking is 40-45 days.",
+          "100-105 days duration.",
+          "Highly tolerant to YVMV."
+        ]
+      },
+      {
+        "id": 41,
+        "name": "VS Tej-5673",
+        "details": [
+          "Tall plant with very vigorous 2-3 branches with short internode.",
+          "12-14 cm long fruit with dark green colour with 5-6 ridges.",
+          "Days to first picking is 45-50 days.",
+          "115-125 days duration.",
+          "Highly tolerant to YVMV."
+        ]
+      },
+      {
+        "id": 42,
+        "name": "VS Reddy-72",
+        "details": [
+          "Tall plant with very vigorous 3-4 branches with short internode.",
+          "14-18 cm long fruit with dark green colour with 5-6 ridges.",
+          "Days to first picking is 45-50 days.",
+          "110-115 days duration.",
+          "Highly tolerant to YVMV."
+        ]
+      }
+    ],
+    "F1 Hybrid Bitter Gourd": [
+      {
+        "id": 43,
+        "name": "VS Harsh",
+        "details": [
+          "Healthy and vigorous vine with high longevity.",
+          "Very early maturity.",
+          "Attractive, shining and dark green fruits.",
+          "Highly suitable for long distance shipping with good keeping quality.",
+          "Average fruit length 14-17cm.",
+          "Heavy yield with prolific bearing with first picking in 72-78 days."
+        ]
+      },
+      {
+        "id": 44,
+        "name": "VS Chhota Chetan",
+        "details": [
+          "Very strong and vigorous vine with more branching.",
+          "Dark green fruit with prominent and profuse spines.",
+          "Medium long fruit 10-14cm length & 100-120g in weight.",
+          "First fruit harvesting starts at 75-80 days after sowing.",
+          "Medium tolerant to powdery mildew and downy mildew."
+        ]
+      },
+      {
+        "id": 45,
+        "name": "VS White Long",
+        "details": [
+          "Healthy and vigorous vine with high longevity.",
+          "Very early maturity.",
+          "Attractive, shining and Light green fruits.",
+          "Highly suitable for long distance shipping with good keeping quality.",
+          "Average fruit length 14-17cm.",
+          "Heavy yield with prolific bearing with first picking in 72-78 days."
+        ]
+      },
+      {
+        "id": 46,
+        "name": "VS Blessing-03",
+        "details": [
+          "Medium tall plant with very vigorous 3-4 branches with short internode.",
+          "12-15 cm long fruit with medium green colour with 5-6 ridges.",
+          "Days to first picking is 40-45 days.",
+          "100-105 days duration.",
+          "Highly tolerant to YVMV."
+        ]
+      }
+    ],
+    "F1 Hybrid Ridge Gourd": [
+      {
+        "id": 47,
+        "name": "VS Anjali",
+        "details": [
+          "Early maturing vigorous hybrid.",
+          "First fruit harvesting starts at 45-50 days after sowing.",
+          "Fruits are long and straight, 50-55cm, bright green with well-marked strong ridges.",
+          "Inside flesh pure white with tender seeds.",
+          "Hybrid is suitable for round the year cultivation.",
+          "Duration 135-150 days."
+        ]
+      },
+      {
+        "id": 48,
+        "name": "VS Arya",
+        "details": [
+          "Duration 140-160 days",
+          "Medium maturing vigorous hybrid.",
+          "First fruit harvesting starts at 40-45 days after sowing.",
+          "Fruits are long and straight, 40-45cm, bright green with well-marked strong ridges.",
+          "Inside flesh pure white with tender seeds.",
+          "Hybrid is suitable for round the year cultivation."
+        ]
+      }
+    ],
+    "F1 Hybrid Bottle Gourd": [
+      {
+        "id": 49,
+        "name": "VS Pruthvi",
+        "details": [
+          "Very highly vigorous vine with 50-55 days 50% flowering.",
+          "Fruits length 40-45cm, cylindrical in shape.",
+          "Attractive uniform light green colour skin with milky white soft flesh.",
+          "First fruit picking starts at 60-65 days after sowing.",
+          "Keeping and cooking quality is very good.",
+          "140-150 days duration."
+        ]
+      },
+      {
+        "id": 50,
+        "name": "VS Prathibha",
+        "details": [
+          "Very highly vigorous vine.",
+          "Fruits length 35-40 cm, club shape fruit.",
+          "Attractive uniform light green colour skin with milky white soft flesh.",
+          "First fruit picking starts at 70-80 days after sowing.",
+          "Keeping and cooking quality is very good.",
+          "150-160 days duration."
+        ]
+      }
+    ],
+    "F1 Hybrid Cucumber": [
+      {
+        "id": 51,
+        "name": "VS Kanchan",
+        "details": [
+          "Attractive dark green fruit.",
+          "220-250 gms weight.",
+          "20-22 cms length.",
+          "5.5 cm width.",
+          "35-37 days maturity (after sowing).",
+          "Tolerant to virus and downy mildew.",
+          "Long shelf life, heat set & excellent yield."
+        ]
+      }
+    ],
+    "F1 Hybrid Ash Gourd": [
+      {
+        "id": 52,
+        "name": "VS Surya",
+        "details": [
+          "Bushy plant, flowers and fruits by 45-50 days.",
+          "Prolific bearer for a period of 130-150 days with two harvests.",
+          "Fruits have a typical acidic flavour in all season.",
+          "Free from bitterness and phenols and are excellent in cooking quality and flavour.",
+          "Each spike bears 9-12 fruits with each fruit having 3-4 beans."
+        ]
+      }
+    ],
+    "F1 Hybrid Pumpkin": [
+      {
+        "id": 53,
+        "name": "VS Chandra",
+        "details": [
+          "Flat round shape.",
+          "Dark green colour with white specks.",
+          "2.5-3kgs weight.",
+          "Orange yellowish colour flesh.",
+          "50-55 days maturity (after sowing).",
+          "High yield, good shelf life."
+        ]
+      }
+    ],
+    "Hybrid Mustard": [
+      {
+        "id": 54,
+        "name": "VS Black Gold",
+        "details": [
+          "Early maturing variety.",
+          "Crop matures in 90-100 days.",
+          "It's suitable for toria-Wheat cultivation.",
+          "Seeds are dark brown and bold in size.",
+          "It gives average yield of 6-7 q/acre.",
+          "Oil content of 41-43%."
+        ]
+      }
+    ],
+    "F1 Hybrid Watermelon": [
+      {
+        "id": 55,
+        "name": "VS Mithas",
+        "details": [
+          "Duration 80-85 days.",
+          "Vigorously growing vine.",
+          "Attractive Glossy black skin coloured fruit with dark red colour pulp with TSS 12%.",
+          "Fruits are round to oval with fruit weight of 6-8Kg.",
+          "High yielder with excellent keeping quality suitable for long distance transportation."
+        ]
+      },
+      {
+        "id": 56,
+        "name": "VS Green Gold watermelon",
+        "details": [
+          "Duration 80-85 days.",
+          "Vigorously growing vine.",
+          "Attractive greener skin with dark stripes fruit with bright red colour pulp with TSS 12%.",
+          "Fruits are round to oval with fruit weight of 8-10Kg.",
+          "High yielder with excellent keeping quality suitable for long transportation."
+        ]
+      },
+      {
+        "id": 57,
+        "name": "VS Rudra",
+        "details": [
+          "Duration 80-85 days.",
+          "Vigorously growing vine.",
+          "Attractive Glossy black skin coloured fruit with dark red colour pulp with TSS 12%.",
+          "Fruits are round to oval with fruit weight of 5-7Kg.",
+          "High yielder with excellent keeping quality suitable for long distance transportation."
+        ]
+      }
+    ],
+    "Peas": [
+      {
+        "id": 58,
+        "name": "VS Green Gold",
+        "details": [
+          "First harvest 50 to 60 days.",
+          "Second harvest 10 to 12 days after first harvest.",
+          "Green colour grain.",
+          "8 to 10 grains per pod.",
+          "Round and bold grains."
+        ]
+      }
+    ],
+    "F1 Hybrid Muskmelon": [
+      {
+        "id": 59,
+        "name": "VS Madhuri",
+        "details": [
+          "Oval shape fruit.",
+          "Dense netting colour.",
+          "Orange Flesh.",
+          "Fruit weight 1.25 to 1.5kg.",
+          "70-75 days Maturity (after sowing).",
+          "12-14 brix sugar content.",
+          "High yielding variety, attractive and good sweetness, good for shipping."
+        ]
+      },
+      {
+        "id": 60,
+        "name": "VS Sugar Pearl",
+        "details": [
+          "Oval shape fruit.",
+          "Dense netting colour.",
+          "Orange Flesh.",
+          "Fruit weight 1.5 to 2 kg.",
+          "70-75 days Maturity (after sowing).",
+          "12-14 brix sugar content.",
+          "High yielding variety, attractive and good sweetness, good for shipping."
+        ]
+      },
+      {
+        "id": 61,
+        "name": "VS Chetak",
+        "details": [
+          "Oval shape fruit.",
+          "Dense netting colour.",
+          "Orange Flesh.",
+          "Fruit weight 1 to 1.5kg.",
+          "70-75 days Maturity (after sowing).",
+          "12-14 brix sugar content.",
+          "High yielding variety, attractive and good sweetness, good for shipping."
+        ]
+      }
+    ],
+    "Dolichos": [
+      {
+        "id": 62,
+        "name": "VS Dolly",
+        "details": [
+          "Bushy plant, flowers and fruits by 45-50 days.",
+          "Prolific bearer for a period of 130-150 days with two harvests.",
+          "Fruits have a typical acidic flavour in all season.",
+          "Free from bitterness and phenols and are excellent in cooking quality and flavour.",
+          "Each spike bears 9-12 fruits with each fruit having 3-4 beans."
+        ]
+      }
+    ],
+    "Beans": [
+      {
+        "id": 63,
+        "name": "VS Rukmini",
+        "details": [
+          "Bright dark green colour pod.",
+          "Uniform, very attractive pods.",
+          "String less pods.",
+          "High yield potential.",
+          "Light green colour pod.",
+          "Average pod length is 14-16 cm.",
+          "Good shelf life."
+        ]
+      }
+    ],
+    "Cowpea": [
+      {
+        "id": 64,
+        "name": "VS Nandhi",
+        "details": [
+          "Cowpea Seeds produces high-quality.",
+          "Dark green fruits with a length of 30-35 cm and a 12-15 gm weight.",
+          "Early maturity, harvest within 45-50 days after transplanting.",
+          "Ideal for multiple growing seasons.",
+          "Excellent fruit characteristics and adaptability.",
+          "Perfect for farmers seeking reliable yield and market appeal."
+        ]
+      }
+    ],
+    "Sweet Corn": [
+      {
+        "id": 65,
+        "name": "VS Honey",
+        "details": [
+          "Flowering in 55-60 days.",
+          "75-80 days crop duration.",
+          "Cob length 25-30 cm.",
+          "Cob weight 230-260 gm.",
+          "13-14% sweetness.",
+          "Medium duration hybrid.",
+          "Uniform cobs with very good filling.",
+          "Tolerant to foliar diseases."
+        ]
+      }
+    ],
+    "Redgram": [
+      {
+        "id": 66,
+        "name": "VS Myra-23",
+        "details": [
+          "Spreading type of growth habit.",
+          "Plant height is 210-220cm with heavy branching.",
+          "Red colour bold seeds.",
+          "Crop duration is 140-145 days.",
+          "Good quality dal."
+        ]
+      }
+    ],
+    "Black Gram": [
+      {
+        "id": 67,
+        "name": "VS Kala Sona",
+        "details": [
+          "Day of maturity 80-82 Days.",
+          "Leaf colour green colour.",
+          "Grain colour greenish brown.",
+          "Grain per pod 6-9 seeds.",
+          "Plant height 40-45 cm.",
+          "Erect type plant.",
+          "Medium yield size seed.",
+          "Potential: 12-15 Q/ha."
+        ]
+      }
+    ],
+    "Green Gram": [
+      {
+        "id": 68,
+        "name": "VS Ganga",
+        "details": [
+          "Duration 60-65 days.",
+          "Plant height 55-60 cm.",
+          "Plant type erect pod length.",
+          "Pod length medium long, 10-12 seeds/pod.",
+          "Deep green colour seed.",
+          "Yield potential 12-15 Qtl/ha."
+        ]
+      }
+    ],
+    "Radish": [
+      {
+        "id": 69,
+        "name": "VS White House",
+        "details": [
+          "7-8 inch Fruit",
+          "Smooth Skin",
+          "Avg Fruit weight 100-150 gm",
+          "Less Pungency",
+          "Maturity 30-40 days"
+        ]
+      }
+    ],
+    "Onion": [
+      {
+        "id": 70,
+        "name": "VS Nasik Red",
+        "details": [
+          "110 days maturity.",
+          "Diameter 7-8cm.",
+          "Strong red colour.",
+          "Medium size bulb, 170-220 grams.",
+          "Red onion for the rainy season.",
+          "Recommended sowing dates are at the beginning of the rainy season.",
+          "The plants have excellent stem development."
+        ]
+      },
+      {
+        "id": 71,
+        "name": "VS Nandhi White",
+        "details": [
+          "white colour fruit.",
+          "Round small bulb shape fruit.",
+          "Fruit weight 100-110 gm.",
+          "110-120 days maturity.",
+          "Crisp and firm, good yield."
+        ]
+      }
+    ],
+    "Coriander": [
+      {
+        "id": 72,
+        "name": "VS Dhaniya",
+        "details": [
+          "Vigorously growing, medium.",
+          "Ready for harvest within 35 days after sowing.",
+          "Dark green succulent leaves with excellent aroma.",
+          "Late bolting and multi-cut suitable type."
+        ]
+      }
+    ],
+    "Cluster Beans": [
+      {
+        "id": 73,
+        "name": "VS-2002",
+        "details": [
+          "Plant height-90-100cm.",
+          "Days to 1st flower 30-34 days.",
+          "Internodal distance-3-4cm.",
+          "Light green pod with 9-12 cm length with 8-10 pods per cluster.",
+          "Days to first harvest are 45-48 days with 90-100 days duration."
+        ]
+      }
+    ],
+    "Sponge Gourd": [
+      {
+        "id": 74,
+        "name": "VS Chhaya",
+        "details": [
+          "Plants: Very long veins, well branched.",
+          "Fruit: Dark green, slight black lining all over the skin, cylindrical in shape.",
+          "Fruit length: 20-25 cm.",
+          "First picking: After 45-50 days from sowing.",
+          "Specification: Very attractive fruits, high yielding, suitable for long distance transportation."
+        ]
+      }
+    ],
+    "Soya Bean": [
+      {
+        "id": 75,
+        "name": "VS Chhava-1234",
+        "details": [
+          "Medium bold seeds.",
+          "Average 3 seeds/pod.",
+          "100 seeds weight 12-12.5 gm.",
+          "90-95 days maturity.",
+          "High pod bearing capacity with non shattering pods.",
+          "Tolerant to Mosaic and semi-looper infestation."
+        ]
+      }
+    ],
+    "Cauliflower": [
+      {
+        "id": 77,
+        "name": "VS Ansh",
+        "details": [
+          "Cream white Colour Fruit.",
+          "Compact, dome curd Fruit.",
+          "Average curd weight: 1.2-1.5Kg.",
+          "Late maturity, winter hardy, excellent strain in Early to Late Snow Ball group.",
+          "Harvesting 75-85 days after transplanting.",
+          "Excellent self blanching leaf character which cover the curd upto 1.5 kg weight."
+        ]
+      }
+    ],
+    "Cabbage": [
+      {
+        "id": 78,
+        "name": "VS Dev",
+        "details": [
+          "Maturity: Medium maturity.",
+          "Head shape: Round, compact, average weight 1.0 to 1.2 kgs, wrapped in 5-6 cup shaped small leaves.",
+          "Heads have clear white interior, uniform, suitable for August to October sowing.",
+          "Harvesting: after 50-60 days from transplanting."
+        ]
+      }
+    ]
+  }
+}
