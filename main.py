@@ -17,7 +17,6 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 origins = [
     "https://JogannagariSaiCharanReddy.github.io", # IMPORTANT: Change this later
     "http://127.0.0.1:5500",
-    "*" # Keep for initial testing
 ]
 
 app.add_middleware(
