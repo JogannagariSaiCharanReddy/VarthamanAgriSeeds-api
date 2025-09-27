@@ -15,7 +15,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Configure CORS (Your configuration is fine for now)
 origins = [
-    "https://YOUR_GITHUB_USERNAME.github.io", # IMPORTANT: Change this later
+    "https://JogannagariSaiCharanReddy.github.io", # IMPORTANT: Change this later
     "http://127.0.0.1:5500",
     "*" # Keep for initial testing
 ]
