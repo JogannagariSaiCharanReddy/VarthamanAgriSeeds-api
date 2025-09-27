@@ -16,7 +16,10 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 # Configure CORS (Your configuration is fine for now)
 origins = [
     "https://JogannagariSaiCharanReddy.github.io", # IMPORTANT: Change this later
-    "http://127.0.0.1:5500",
+    "http://varthamanagriseeds.info",
+    "https://varthamanagriseeds.info",
+    "http://www.varthamanagriseeds.info",
+    "https://www.varthamanagriseeds.info",
 ]
 
 app.add_middleware(
