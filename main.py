@@ -92,3 +92,9 @@ async def get_crop_by_name(crop_name: str, request: Request): # Pass request her
     crop_list_with_img_url = await add_img_url(crop_list, request) # Pass request
     return crop_list_with_img_url
 
+@app.get("/healthz")
+def health_check():
+    """
+    Simple health check endpoint.
+    """
+    return {"status": "ok"}
